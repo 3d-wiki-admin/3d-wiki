@@ -1,0 +1,5 @@
+baseURL = 'https://3d-wiki.com'
+languageCode = 'en-us'
+title = 'Wikipedia about 3D Technologies'
+type = 'docs'
+
